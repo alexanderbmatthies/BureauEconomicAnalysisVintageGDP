@@ -1,5 +1,11 @@
 # BureauEconomicAnalysisVintageGDP
 
+## UsGdpVint_003
+Publication Date and readme info
+Aggregated Results of Quarter estimations/calculations
+Calculate GDP % Change Switch
+List those quarters were an estimation of economic contraction has changed to growth or vice versa
+
 ## UsGdpVint_002
 create quarter date
 Transfer to Dataframe
