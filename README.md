@@ -1,5 +1,13 @@
 # BureauEconomicAnalysisVintageGDP
 
+## UsGdpVint_004
+unique dates
+Function to recieve most recent date
+plot Gdp and GDP_%_Change and specific timespot
+Plot ALL vintages on one chart (GDP only)
+Plot one Quarter GDP across vintages (revision path)
+Plot one Quarter GDP Growth Change across vintages (revision path)
+
 ## UsGdpVint_003
 Publication Date and readme info
 Aggregated Results of Quarter estimations/calculations
