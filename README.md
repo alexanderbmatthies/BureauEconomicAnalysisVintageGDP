@@ -1,5 +1,12 @@
 # BureauEconomicAnalysisVintageGDP
 
+## UsGdpVint_007
+Animate GDP growth Vintage Evolution (matplotlib)
+New Data release 2026-04-09
+Animate GDP growth Vintage Evolution (BAR CHART)
+
+
+
 ## UsGdpVint_006
 UI with date picker
 
