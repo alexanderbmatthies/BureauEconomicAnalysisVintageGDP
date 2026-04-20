@@ -23,15 +23,19 @@ Steps:
     - Change Data types of 'GDP','GDI','GDP_%_Change','GDI_%_Change'
     - Create Quarter_Date column from Quarter
     - Reset Index
-- Basic statistics
 - Latest Release_Date for each Quarter
 - Create Valid_From and Valid_To with checks
-- Build time series using validity intervals
-- The time series are transfered as data frames into a dictionary
-- Alternatively transfer of the time series into single data frame
+- Which quarters have been changed during the last release date?
+- Which quarter has had the most revisions?
+- At which release date were the most quarters revised?
+- Basic statistics
 - Aggregated Results of Quarter estimations/calculations
 - Calculate GDP % Change Switch
 - List those quarters were an estimation of economic contraction has changed to growth or vice versa
+- Calculate diff of max and min gdp change
+- Build time series using validity intervals
+- The time series are transfered as data frames into a dictionary
+- Alternatively transfer of the time series into single data frame
 - Function to recieve most recent date
 - plot Gdp and GDP_%_Change and specific timespot
 - Plot ALL vintages on one chart (GDP only)
@@ -41,6 +45,13 @@ Steps:
 - Animate GDP growth Vintage Evolution (matplotlib)
 - Animate GDP growth Vintage Evolution (BAR CHART)
 - UI to create plot  
+
+## UsGdpVint_009
+Which quarter has had the most revisions?
+At which release date were the most quarters revised?
+Calculate diff of max and min gdp change
+previous estimate within each quarter
+Which quarters have been changed during the last release date and how
 
 ## UsGdpVint_008
 Readme discription
