@@ -46,6 +46,11 @@ Steps:
 - Animate GDP growth Vintage Evolution (BAR CHART)
 - UI to create plot  
 
+## UsGdpVint_011
+Add a notebook to load data automatically from website
+Read current release date on website
+
+
 ## UsGdpVint_010
 Update Data to release 2026-05-28
 
